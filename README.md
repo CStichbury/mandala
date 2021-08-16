@@ -16,7 +16,5 @@ Complete explanation of the process can be found on my [website.](https://alisha
 
 Here are few examples of what you can do:
 
-<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala1.png" width="300" height="300">
-<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png" width="300" height="300">
-<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala3.png" width="300" height="300">
+<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png" width="300" height="300"><img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala5.png" width="300" height="300"><img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala7.png" width="300" height="300">
 
