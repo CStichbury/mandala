@@ -15,4 +15,4 @@ Brief explanation:
 Complete explanation of the process can be found on my [website.](https://alishabhimani.ca/mandala/)
 
 Here is an example of what you can do:
-<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png", width="250", height="250">
+<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png" width="250" height="250">
