@@ -14,6 +14,9 @@ Brief explanation:
 
 Complete explanation of the process can be found on my [website.](https://alishabhimani.ca/mandala/)
 
-Here is an example of what you can do:
+Here are few examples of what you can do:
 
-<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png" width="400" height="400">
+<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala1.png" width="300" height="300">
+<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala2.png" width="300" height="300">
+<img src="https://github.com/alishabhimani/mandala/blob/main/img/mandala3.png" width="300" height="300">
+
