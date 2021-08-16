@@ -1,9 +1,9 @@
 # Mandala
 
 
-Inspired by mathematician A. Chinchón, creating generative art in R.
+Inspired by mathematician A. Chinchón, creating generative mandala art in R using Voronoi tesselation.
 
-Brief explanation of making MANDALAs:
+Brief explanation:
 
 - Start obtaining n equidistant points in a unit circle centered in (0,0) 
 - Repeat the process with all the points, obtaining new n points around each of them
@@ -15,4 +15,4 @@ Brief explanation of making MANDALAs:
 Complete explanation of the process can be found on my [website.](https://alishabhimani.ca/mandala/)
 
 Here is an example of what you can do:
-![mandala](img/mandala2.png)
+![mandala](img/mandala2.png = 250x250)
