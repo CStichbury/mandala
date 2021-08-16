@@ -15,4 +15,4 @@ Brief explanation:
 Complete explanation of the process can be found on my [website.](https://alishabhimani.ca/mandala/)
 
 Here is an example of what you can do:
-![mandala](img/mandala2.png = 250x250)
+<img src="img/mandala2.png" = 250x250>
