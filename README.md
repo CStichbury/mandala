@@ -13,3 +13,6 @@ Brief explanation of making MANDALAs:
 - Graph using ggplot and colour using your own custom palettes
 
 Complete explanation of the process can be found on my [website.](https://alishabhimani.ca/mandala/)
+
+Here is an example of what you can do:
+![mandala](img/mandala2.png)
